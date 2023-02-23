@@ -1,0 +1,10 @@
+// This is a functional component that will be used to display the cards in the 
+import React from 'react'
+
+const Card = () => {
+  return (
+    <div>Card</div>
+  )
+}
+
+export default Card
